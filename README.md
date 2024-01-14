@@ -39,7 +39,7 @@
   
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
   
- 📧 &emsp; Reach me anytime: [here]([t.me/hassaneldash](https://t.me/hassaneldash))<br/><br/>
+ 📧 &emsp; Reach me anytime: [here](https://t.me/hassaneldash)<br/><br/>
   
  💬 &emsp; Ask me about anything [here](https://github.com/hassaneldash/hassaneldash/issues)
 </p>
