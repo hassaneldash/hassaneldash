@@ -19,24 +19,39 @@
 </p>
 
 <p align="center">
+  
  <a href="https://linkedin.com/in/hassaneldash" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hassaneldash"/>
  </a>
+  
  <a href="https://t.me/hassaneldash" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="hassaneldash"  />
   </a> 
- <a href="https://twitter.com/Hassan_ELDash" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://twitter.com/Hassan_ELDash" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
+ 
  <a href="https://www.coursera.org/learner/hassaneldash" target="_blank">
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
  </a>
+ 
+ <a href="confirm.udacity.com/HRYNQV6C" target="_blank">
+  <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=white" />
+ </a>
+  
+ <a href="https://www.credly.com/users/hassaneldash/badges" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+ </a>
+ 
+ <a href="https://www.udemy.com/user/hassaneldash/" target="_blank">
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+ </a>
+ 
  <a href="https://twitter.com/Hassan_ELDash" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
+ 
+ <a href="https://twitter.com/Hassan_ELDash" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ 
 </p>
 
 <!-- About Section -->
