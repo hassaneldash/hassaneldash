@@ -59,17 +59,18 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
- 🎓 &emsp; Proud graduate of the Information Technology Institute (ITI). <br/>
+ 🎓 &emsp; Graduated From Faculty of Engineering. <br/>
+ ✌️ &emsp; Hold Master's degree in Engineering. <br/>
+ ❤️ &emsp; Lecturer and Enjoy teaching and sharing knowledge <br/>
+ 🎓 &emsp; Graduated From Information Technology Institute (ITI). <br/>
  🎯 &emsp; Completed the Acc. CS Spec. from Uni. of Illinois at Urbana-Champaign. <br/>
  🪪 &emsp; Certified by Meta as Full-Stack Engineer and Mobile Developer. <br/>
  📜 &emsp; Completed Udacity's Advanced Android Kotlin Dev. Nanodegree. <br/>
- ❤️ &emsp; Love writing code and learning new technologies. <br/>
- ✌️ &emsp; Enjoy teaching and sharing knowledge <br/>
+ ⭐ &emsp; Love writing clean code. <br/>
+ 🏅 &emsp; Enjoy Breaking Records and Earning Certificates and Badges<br/>
  📧 &emsp; Reach me anytime: [here](mailto:hassan.eldash@yahoo.com)<br/>
  💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)
 </p>
-<br/>
-<br/>
 <hr/>
 
 <!-- Skills Section -->
