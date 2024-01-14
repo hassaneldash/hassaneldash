@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
  </a>
  
- <a href="confirm.udacity.com/HRYNQV6C" target="_blank">
+ <a href="https://confirm.udacity.com/HRYNQV6C" target="_blank">
   <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=white" />
  </a>
   
