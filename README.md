@@ -28,6 +28,15 @@
  <a href="https://twitter.com/Hassan_ELDash" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
+ <a href="https://twitter.com/Hassan_ELDash" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.coursera.org/learner/hassaneldash" target="_blank">
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+ </a>
+ <a href="https://twitter.com/Hassan_ELDash" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
 </p>
 
 <!-- About Section -->
@@ -36,8 +45,8 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
  🎓 &emsp; Proud graduate of the Information Technology Institute (ITI). <br/>
- 🎯 &emsp; Completed the Accelerated Computer Science Fundamentals Specialization from the University of Illinois at Urbana-Champaign. <br/>
- 🪪 &emsp; Certified by Meta as a proficient Full-Stack Software Engineer and Mobile Developer (Native/Cross-Platform). <br/>
+ 🎯 &emsp; Completed the Acc. CS Spec.from the Uni. of Illinois at Urbana-Champaign. <br/>
+ 🪪 &emsp; Certified by Meta as Full-Stack Engineer and Mobile Developer. <br/>
  📜 &emsp; Completed Udacity's Advanced Android Kotlin Development Nanodegree. <br/>
  ❤️ &emsp; Love writing code and learning new technologies. <br/>
  ✌️ &emsp; Enjoy teaching and sharing knowledge <br/>
@@ -46,9 +55,9 @@
 </p>
 <br/>
 <br/>
-<br/>
 <hr/>
 
+<!-- Skills Section -->
 ## My Skills
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=white&logo=Kotlin&logoColor=0095D5)
@@ -77,12 +86,7 @@
 ![MS Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&labelColor=white&logo=microsoft-access&logoColor=A4373A)
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=white&logo=microsoft&logoColor=D83B01)
 
-<!-- ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&labelColor=white&logo=Microsoft_Excel&logoColor=217346)
-![MS PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&labelColor=white&logo=Microsoft_PowerPoint&logoColor=B7472A)
-![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&labelColor=white&logo=Microsoft_Word&logoColor=2B579A) -->
-
-
-
+<!-- States Section -->
 <br/>
 <p align="left">
   <a href="https://github.com/hassaneldash?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -90,7 +94,7 @@
 <hr/>
 <p align="center">
   <a href="https://github.com/hassaneldash">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaneldash&theme=radical&border=7F3FBF&background=0D1117" alt="Hassan ELDash's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaneldash&theme=radical&border=7F3FBF&background=0D1117" alt="Hassan ELDash's GitHub Streak"/>
   </a>
 </p>
 <p align="center">
