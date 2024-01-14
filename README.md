@@ -70,7 +70,7 @@
 
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=14354C)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=Django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=Flask&logoColor=000000)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=white&logo=Flask&logoColor=000000)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&labelColor=black&logo=Shell_Script&logoColor=121011)
 
 
