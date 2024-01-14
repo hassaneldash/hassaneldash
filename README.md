@@ -60,9 +60,9 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
  🎓 &emsp; Proud graduate of the Information Technology Institute (ITI). <br/>
- 🎯 &emsp; Completed the Acc. CS Spec.from the Uni. of Illinois at Urbana-Champaign. <br/>
+ 🎯 &emsp; Completed the Acc. CS Spec. from Uni. of Illinois at Urbana-Champaign. <br/>
  🪪 &emsp; Certified by Meta as Full-Stack Engineer and Mobile Developer. <br/>
- 📜 &emsp; Completed Udacity's Advanced Android Kotlin Development Nanodegree. <br/>
+ 📜 &emsp; Completed Udacity's Advanced Android Kotlin Dev. Nanodegree. <br/>
  ❤️ &emsp; Love writing code and learning new technologies. <br/>
  ✌️ &emsp; Enjoy teaching and sharing knowledge <br/>
  📧 &emsp; Reach me anytime: [here](mailto:hassan.eldash@yahoo.com)<br/>
