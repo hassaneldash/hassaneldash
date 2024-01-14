@@ -23,12 +23,12 @@
  <a href="https://linkedin.com/in/hassaneldash" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hassaneldash"/>
  </a>
- <a href="https://twitter.com/Hassan_ELDash" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
  <a href="https://t.me/hassaneldash" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="hassaneldash"  />
   </a> 
+ <a href="https://twitter.com/Hassan_ELDash" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
 </p>
 <br/>
 
@@ -37,8 +37,11 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: hassanmeldash@gmail.com<br/><br/>
+  
+ ❤️ &emsp; Love writing code and learning new features<br/><br/>
+  
+ 📧 &emsp; Reach me anytime: [here]([t.me/hassaneldash](https://t.me/hassaneldash))<br/><br/>
+  
  💬 &emsp; Ask me about anything [here](https://github.com/hassaneldash/hassaneldash/issues)
 </p>
 
