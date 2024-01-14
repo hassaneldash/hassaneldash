@@ -34,13 +34,15 @@
  # About me
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
- ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
-  
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
-  
- 📧 &emsp; Reach me anytime: [here](https://t.me/hassaneldash)<br/><br/>
-  
- 💬 &emsp; Ask me about anything [here](https://github.com/hassaneldash/hassaneldash/issues)
+
+ 🎓 &emsp; Proud graduate of the Information Technology Institute (ITI). <br/>
+ 🎯 &emsp; Completed the Accelerated Computer Science Fundamentals Specialization from the University of Illinois at Urbana-Champaign. <br/>
+ 🪪 &emsp; Certified by Meta as a proficient Full-Stack Software Engineer and Mobile Developer (Native/Cross-Platform). <br/>
+ 📜 &emsp; Completed Udacity's Advanced Android Kotlin Development Nanodegree. <br/>
+ ❤️ &emsp; Love writing code and learning new technologies. <br/>
+ ✌️ &emsp; Enjoy teaching and sharing knowledge <br/>
+ 📧 &emsp; Reach me anytime: [here](mailto:hassan.eldash@yahoo.com)<br/>
+ 💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)
 </p>
 <br/>
 <br/>
