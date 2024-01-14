@@ -13,7 +13,7 @@
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a Full-Stack Software Engineer from <b>Egypt</b> 」
+    「 I am a Dynamic Full-Stack Software Engineer and passionate Mobile Developer (Native/Cross-Platform) with Master’s degree in Civil Engineering from <b>Egypt</b> 」
     <a href="https://www.google.com/search?q=Hassan+ELDash">「 Google Me 」</a> <br/>
   </samp>
 </p>
@@ -47,11 +47,11 @@
 <br/>
 <hr/>
 
-## Use To Code
+## My Skills
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=white&logo=Kotlin&logoColor=0095D5)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=white&logo=react&logoColor=20232A)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=white&logo=Java&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=ED8B00)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=white&logo=Flutter&logoColor=02569B)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=white&logo=Dart&logoColor=0175C2)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)
@@ -73,7 +73,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&labelColor=white&logo=MySQL&logoColor=00000F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=white&logo=PostgreSQL&logoColor=316192)
 ![MS Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&labelColor=white&logo=microsoft-access&logoColor=A4373A)
-![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=white&logo=microsoft-office&logoColor=D83B01)
+![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=white&logo=microsoft&logoColor=D83B01)
 
 <!-- ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&labelColor=white&logo=Microsoft_Excel&logoColor=217346)
 ![MS PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&labelColor=white&logo=Microsoft_PowerPoint&logoColor=B7472A)
