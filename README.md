@@ -74,7 +74,7 @@
 </p>
 <hr/>
 <br/>
-
+<br/>
 <!-- Skills Section -->
 ## My Skills
 
