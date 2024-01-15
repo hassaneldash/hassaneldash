@@ -72,9 +72,8 @@
  📧 &emsp; Reach me anytime: [here](mailto:hassan.eldash@yahoo.com)<br/>
  💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)
 </p>
+<br/>
 <hr/>
-<br/>
-<br/>
 <!-- Skills Section -->
 ## My Skills
 
