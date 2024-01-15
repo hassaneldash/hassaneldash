@@ -7,13 +7,13 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hi!, My name is
                 <b>Hassan ELDash</b>
         </samp>
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a Dynamic Full-Stack Software Engineer and passionate Mobile Developer (Native/Cross-Platform) with Master’s degree in Civil Engineering from <b>Egypt</b> 」
+    「 I am a passionate Full-Stack Software Engineer and a dynamic Mobile Developer (Native/Cross-Platform) with Master’s degree in Civil Engineering from <b>Egypt</b> 」
     <a href="https://www.google.com/search?q=Hassan+ELDash">「 Google Me 」</a> <br/>
   </samp>
 </p>
@@ -75,7 +75,8 @@
 <br/>
 <hr/>
 <!-- Skills Section -->
-## My Skills
+
+# My Skills
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=white&logo=Kotlin&logoColor=0095D5)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=white&logo=react&logoColor=20232A)
@@ -103,12 +104,16 @@
 ![MS Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&labelColor=white&logo=microsoft-access&logoColor=A4373A)
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=white&logo=microsoft&logoColor=D83B01)
 
-<!-- States Section -->
 <br/>
 <p align="left">
   <a href="https://github.com/hassaneldash?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 <hr/>
+
+
+<!-- States Section -->
+
+# Stats and Streak
 <p align="center">
   <a href="https://github.com/hassaneldash">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaneldash&theme=radical&border=7F3FBF&background=0D1117" alt="Hassan ELDash's GitHub Streak"/>
@@ -120,7 +125,8 @@
   </a>
 </p>
 <a> 
-    <a href="https://github.com/hassaneldash"><img alt="Hassan ELDash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hassaneldash&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+
+<a href="https://github.com/hassaneldash"><img alt="Hassan ELDash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hassaneldash&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/hassaneldash"><img alt="Hassan ELDash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hassaneldash&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
