@@ -57,6 +57,7 @@
 <!-- About Section -->
  # About me
 <p>
+  <!-- Source : https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl -->
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
  🎓 &emsp; Graduated From Faculty of Engineering. <br/>
@@ -72,6 +73,7 @@
  💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)
 </p>
 <hr/>
+<br/>
 
 <!-- Skills Section -->
 ## My Skills
