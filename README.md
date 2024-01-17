@@ -58,7 +58,7 @@
  # About me
 <p>
   <!-- Source : https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl -->
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />
 
  🎓 &emsp; Graduated From Faculty of Engineering. <br/>
  ✌️ &emsp; Hold Master's degree in Engineering. <br/>
