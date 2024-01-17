@@ -54,6 +54,7 @@
  
 </p>
 
+<hr/>
 <!-- About Section -->
  # About me
 <p>
@@ -72,7 +73,6 @@
  📧 &emsp; Reach me anytime: [here](mailto:hassan.eldash@yahoo.com)<br/>
  💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)
 </p>
-<br/>
 <hr/>
 <!-- Skills Section -->
 
