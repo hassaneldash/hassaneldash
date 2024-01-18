@@ -56,6 +56,7 @@
 
 <hr/>
 <!-- About Section -->
+
  # About me
 <p>
   <!-- Source : https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl -->
