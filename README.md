@@ -72,7 +72,7 @@
  ⭐ &emsp; Love writing clean code. <br/>
  🏅 &emsp; Enjoy Breaking Records and Earning Certificates and Badges<br/>
  📧 &emsp; Reach me anytime: [here](mailto:hassan.eldash@yahoo.com)<br/>
- 💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)
+ 💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)<br/>
 </p>
 <hr/>
 <!-- Skills Section -->
