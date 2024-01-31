@@ -129,7 +129,9 @@
 
 <a href="https://github.com/hassaneldash"><img alt="Hassan ELDash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hassaneldash&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/hassaneldash"><img alt="Hassan ELDash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hassaneldash&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
 </a>
+<img src="https://wakatime.com/share/@hassaneldash/87411c05-e7ea-4678-89a4-7fad93ab9fcf.svg"/>
 
+  <br/>
+  
 ![Hassan ELDash's Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassaneldash&custom_title=Hassan%20ELDash%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
