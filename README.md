@@ -13,7 +13,7 @@
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a passionate Full-Stack Software Engineer and a dynamic Mobile Developer (Native/Cross-Platform) with Master’s degree in Civil Engineering from <b>Egypt</b> 」
+    「 I am a passionate Full-Stack Software Engineer and a dynamic Mobile Developer (Native/Cross-Platform) with Master’s degree in Engineering from <b>Egypt</b> 」
     <a href="https://www.google.com/search?q=Hassan+ELDash">「 Google Me 」</a> <br/>
   </samp>
 </p>
@@ -62,13 +62,14 @@
 <p>
   <!-- Source : https://giphy.com/gifs/M9kgjEsLG6LMbYC9dl -->
  <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />
+ <br/>
 
  🎓 &emsp; Graduated From Faculty of Engineering. <br/>
  ✌️ &emsp; Hold Master's degree in Engineering. <br/>
  ❤️ &emsp; Lecturer and Enjoy teaching and sharing knowledge <br/>
  🎓 &emsp; Graduated From Information Technology Institute (ITI). <br/>
- 🎯 &emsp; Completed the Acc. CS Spec. from Uni. of Illinois at Urbana-Champaign. <br/>
- 🪪 &emsp; Certified by Meta as Full-Stack Engineer and Mobile Developer. <br/>
+ 🎯 &emsp; Completed the CS Specilization from Uni. of Illinois at Urbana-Champaign. <br/>
+ 🪪 &emsp; Certified by Meta as Generalist Software Engineer. <br/>
  📜 &emsp; Completed Udacity's Advanced Android Kotlin Dev. Nanodegree. <br/>
  ⭐ &emsp; Love writing clean code. <br/>
  🏅 &emsp; Enjoy Breaking Records and Earning Certificates and Badges<br/>
