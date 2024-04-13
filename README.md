@@ -81,32 +81,36 @@
 
 # My Skills
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=white&logo=Kotlin&logoColor=0095D5)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=white&logo=react&logoColor=20232A)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=ED8B00)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=white&logo=Flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=white&logo=Dart&logoColor=0175C2)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=white&k&logo=react&logoColor=61DBFB)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=white&logo=jQuery&logoColor=0769AD)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=white&logo=git&logoColor=F05032)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=white&logo=visual%20studio&logoColor=0078d7)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=white&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=white&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=563D7C)
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&labelColor=white&logo=python&logoColor=14354C)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=white&logo=Django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=white&logo=Flask&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=white&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=white&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&labelColor=white&logo=tailwindcss&logoColor=0F172A)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=563D7C)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=white&logo=Kotlin&logoColor=0095D5)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=white&logo=git&logoColor=F05032)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=white&logo=visual%20studio&logoColor=0078d7)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&labelColor=white&logo=gnu-bash&logoColor=121011)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&labelColor=white&logo=C&logoColor=00599C)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&labelColor=white&logo=C%2B%2B&logoColor=00599C)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=white&logo=PHP&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&labelColor=white&logo=MySQL&logoColor=00000F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=white&logo=PostgreSQL&logoColor=316192)
+![MongoDB](https://img.shields.io/badge/MongoDB-234ea94b?style=for-the-badge&labelColor=white&logo=MongoDB&logoColor=234ea94b)
 ![MS Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&labelColor=white&logo=microsoft-access&logoColor=A4373A)
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=white&logo=microsoft&logoColor=D83B01)
 
+<!-- 
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=white&logo=react&logoColor=20232A)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=ED8B00)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=white&logo=Flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=white&logo=Dart&logoColor=0175C2) 
+-->
 <br/>
 <p align="left">
   <a href="https://github.com/hassaneldash?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
