@@ -64,17 +64,26 @@
  <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />
  <br/>
 
- 🎓 &emsp; Graduated From Faculty of Engineering. <br/>
- ✌️ &emsp; Hold Master's degree in Engineering. <br/>
+ 👨‍💻 &emsp; Instructor at Information Technology Institute (ITI). <br/>
+ 👨‍💻 &emsp; Instructor at Information Technology's Digital Egypt Pioneers Initiative (DEPI). <br/>
+ 👨‍💻 &emsp; Instructor at EasyLearn Academy. <br/>
  ❤️ &emsp; Lecturer and Enjoy teaching and sharing knowledge <br/>
+ 🎓 &emsp; Graduated From Faculty of Engineering. <br/>
+ 🎓 &emsp; Hold Master's degree in Engineering. <br/>
  🎓 &emsp; Graduated From Information Technology Institute (ITI). <br/>
- 🎯 &emsp; Completed the CS Specilization from Uni. of Illinois at Urbana-Champaign. <br/>
+ 🎓 &emsp; Completed the CS Specilization from Uni. of Illinois at Urbana-Champaign. <br/>
  🪪 &emsp; Certified by Meta as Generalist Software Engineer. <br/>
+ 🪪 &emsp; Certified by Meta as Full-Stack Software Engineer. <br/>
+ 🪪 &emsp; Certified by Meta as Mobile Developer (Native/Cross-Platform). <br/>
+ 🪪 &emsp; Certified by IBM as Full-Stack Engineer. <br/>
+ 🪪 &emsp; Certified by IBM as Full-Stack JavaScript Engineer. <br/>
+ 🪪 &emsp; Certified by HackerRank as Software Engineer. <br/>
+ 🪪 &emsp; Certified by HackerRank as Frontend Developer (React). <br/>
  📜 &emsp; Completed Udacity's Advanced Android Kotlin Dev. Nanodegree. <br/>
  ⭐ &emsp; Love writing clean code. <br/>
  🏅 &emsp; Enjoy Breaking Records and Earning Certificates and Badges<br/>
- 📧 &emsp; Reach me anytime: [here](mailto:hassan.eldash@yahoo.com)<br/>
- 💬 &emsp; Ask me about anything [here](https://t.me/hassaneldash)<br/>
+ 📧 &emsp; Reach me anytime: [here](https://t.me/hassaneldash)<br/>
+ 💬 &emsp; Ask me about anything: [here](mailto:hassanmeldash@gmail.com)<br/>
 </p>
 <hr/>
 <!-- Skills Section -->
@@ -95,6 +104,7 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=white&logo=jQuery&logoColor=0769AD)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=white&logo=Kotlin)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=ED8B00)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=white&logo=git)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=white&logo=visual%20studio&logoColor=0078d7)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&labelColor=white&logo=gnu-bash)
@@ -107,7 +117,6 @@
 <!-- 
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=white&logo=react&logoColor=20232A)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=ED8B00)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=white&logo=Flutter&logoColor=02569B)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=white&logo=Dart&logoColor=0175C2) 
 -->
