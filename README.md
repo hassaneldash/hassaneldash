@@ -64,12 +64,13 @@
  <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />
  <br/>
 
- 👨‍💻 &emsp; Instructor at Information Technology Institute (ITI). <br/>
- 👨‍💻 &emsp; Instructor at Information Technology's Digital Egypt Pioneers Initiative (DEPI). <br/>
- 👨‍💻 &emsp; Instructor at EasyLearn Academy. <br/>
- ❤️ &emsp; Lecturer and Enjoy teaching and sharing knowledge <br/>
+ 👨‍💻 &emsp; Instructor at ITI. <br/>
+ 👨‍💻 &emsp; Instructor at MCIT's DEPI. <br/>
+ ❤️ &emsp; Enjoy teaching and sharing knowledge <br/>
  🎓 &emsp; Graduated From Faculty of Engineering. <br/>
  🎓 &emsp; Hold Master's degree in Engineering. <br/>
+ 🎓 &emsp; PhD Candidate. <br/>
+ 🎓 &emsp; DBA Candidate. <br/>
  🎓 &emsp; Graduated From Information Technology Institute (ITI). <br/>
  🎓 &emsp; Completed the CS Specilization from Uni. of Illinois at Urbana-Champaign. <br/>
  🪪 &emsp; Certified by Meta as Generalist Software Engineer. <br/>
@@ -98,6 +99,8 @@
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&labelColor=white&logo=python)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=white&logo=Django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=white&logo=Flask&logoColor=000000)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=white&logo=Flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=white&logo=Dart&logoColor=0175C2)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&labelColor=white&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=white&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/MongoDB-234ea94b?style=for-the-badge&labelColor=white&logo=MongoDB)
@@ -105,6 +108,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=white&logo=Kotlin)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=ED8B00)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=white&logo=react&logoColor=20232A)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=white&logo=git)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=white&logo=visual%20studio&logoColor=0078d7)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&labelColor=white&logo=gnu-bash)
@@ -114,12 +119,10 @@
 ![MS Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&labelColor=white&logo=microsoft-access&logoColor=A4373A)
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=white&logo=microsoft&logoColor=D83B01)
 
-<!-- 
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&labelColor=white&logo=react&logoColor=20232A)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=white&logo=Flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=white&logo=Dart&logoColor=0175C2) 
--->
+
+
+
+
 <br/>
 <p align="left">
   <a href="https://github.com/hassaneldash?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
