@@ -13,7 +13,7 @@
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a passionate Full-Stack Software Engineer and a dynamic Mobile Developer (Native/Cross-Platform) with Master’s degree in Engineering from <b>Egypt</b> 」
+    「 I am a passionate Software Architect and Lecturer from <b>Egypt</b> 」
     <a href="https://www.google.com/search?q=Hassan+ELDash">「 Google Me 」</a> <br/>
   </samp>
 </p>
